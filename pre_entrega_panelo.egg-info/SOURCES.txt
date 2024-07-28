@@ -1,0 +1,9 @@
+setup.py
+modulo1/controlador_carrito.py
+modulo1/controlador_registro.py
+modulo1/modulo.py
+modulo2/pre_entrega_panelo.py
+pre_entrega_panelo.egg-info/PKG-INFO
+pre_entrega_panelo.egg-info/SOURCES.txt
+pre_entrega_panelo.egg-info/dependency_links.txt
+pre_entrega_panelo.egg-info/top_level.txt
